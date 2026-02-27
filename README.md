@@ -1,2 +1,2 @@
-# telify
+# netlify
 hello world
